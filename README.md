@@ -1,1 +1,1 @@
-Here we read the data and clean it using pandas.Then find the trend of the movie's flow
+Here we read the data and clean it using pandas.Then created a visuals to analyse the data's flow using Matplotlib.
